@@ -3752,24 +3752,24 @@
                 	<boolean/>
                 </property>
 				
-				<!-- to do with neutrals -->
-				<property name="neutralCharge" value="0"/>
+                <!-- to do with neutrals -->
+                <property name="neutralCharge" value="0"/>
                 
-				<property name="Neutrals Are Impassable" value="false" editable="false">
+                <property name="Neutrals Are Impassable" value="false" editable="false">
                         <boolean/>
                 </property>
-				<property name="Neutrals Are Blitzable" value="true" editable="false">
-					<boolean/>
-				</property>
-
-				<property name="Neutral Flyover Allowed" value="false" editable="true">
-						<boolean/>
-				</property>
-				
                 
-    <property name="Limit SBR Damage To Factory Production" value="false" editable="false">
-      <boolean/>
-    </property>
+		<property name="Neutrals Are Blitzable" value="true" editable="false">
+		      <boolean/>
+                </property>
+
+                <property name="Neutral Flyover Allowed" value="false" editable="true">
+		      <boolean/>
+                </property>
+				
+                <property name="Limit SBR Damage To Factory Production" value="false" editable="false">
+                    <boolean/>
+                </property>
 				
                 <!-- Map Name: also used for map utils when asked -->
                 <property name="mapName" value="big_world" editable="false"/>
