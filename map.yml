@@ -1,0 +1,4 @@
+map_name: big_world
+games:
+- {game_name: 'Big World : 1942', file_name: big_world_1942.xml}
+- {game_name: 'Big World : 1942 v3 Rules', file_name: Big_World_1942_v3rules.xml}
